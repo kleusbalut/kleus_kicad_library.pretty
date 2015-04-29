@@ -4,4 +4,12 @@ $CMP Akizuki_Stepup-dip_ver2
 K Akizuki, Stepup-dip
 $ENDCMP
 #
+$CMP JST_SH-6pin(GPS)
+K JST, SH
+$ENDCMP
+#
+$CMP JST_SH-6pin_Horizonal(GPS)
+K JST, SH
+$ENDCMP
+#
 #End Doc Library
