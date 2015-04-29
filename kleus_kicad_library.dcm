@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Akizuki_Stepup-dip_ver2
+K Akizuki, Stepup-dip
+$ENDCMP
+#
 #End Doc Library
