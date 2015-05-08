@@ -8,4 +8,9 @@ $CMP JST_SH-6pin(GPS)
 K JST, SH
 $ENDCMP
 #
+$CMP TP4057
+D Li-ion/Li-Po Battery Charger
+K SOT-23-5
+$ENDCMP
+#
 #End Doc Library
